@@ -1,0 +1,11 @@
+output_file: ../Data/test_output.json
+data_file: ../Data/test_database.db
+table_name: exam_results
+
+fields:
+  - field_name: neptun_code
+    label: Neptun code
+  - field_name: result
+    label: Result [%]
+  - field_name: mark
+    label: Mark [1-5]

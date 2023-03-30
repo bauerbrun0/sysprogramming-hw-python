@@ -1,0 +1,13 @@
+# Linux directories
+bin/
+lib/
+
+# Windows directories
+Scripts/
+Lib/
+
+# Common directories
+**/__pycache__/
+
+# Files
+pyvenv.cfg
